@@ -1,0 +1,16 @@
+{
+    "name": "docker_web_app",
+    "version": "1.0.0",
+    "description": "Next.js on Docker",
+    "author": "Nero <nerocube.tw@gmail.com>",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+        "next": "^4.1.0",
+        "react": "^16.0.0",
+        "react-dom": "^16.0.0"
+    }
+}
+  
